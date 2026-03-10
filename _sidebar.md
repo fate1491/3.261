@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * [首頁](README.md)
   * **.ipynb_checkpoints**
   * **3.26**
