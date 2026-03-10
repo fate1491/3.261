@@ -1,0 +1,13 @@
+# 总纲
+
+<body>
+<p class="MsoNormal" style="MARGIN: 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="宋体">Protoss星灵</font></span><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><?xml:namespace 
+prefix = "o" ns = "urn:schemas-microsoft-com:office:office" 
+/><o:p></o:p></span></p>
+<p class="MsoNormal" style="MARGIN: 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="宋体">本质：特异本质</font></span><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="MARGIN: 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="宋体">总描述：和适应性强的人类以及狂暴的异虫相比，保守、精细的星灵是完全不同的种族。凭借他们先进的科技和强大的幽能，星灵长久以来一直认为自己是银河系中最强大的生物。</font></span><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="MARGIN: 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="宋体">虽然他们不是好战的狂徒，但是他们依旧学习到了将机器和战争合并，以及将幽能和科技结合的能力。因此，他们的战士也是有史以来最强大的。如果说星灵有什么弱点，那么就应该算是他们拒绝改变的特性。卡拉的规范十分严谨，星灵不敢有丝毫的背离，深恐会回到原先内战的混乱之中。</font></span><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="MARGIN: 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="宋体">而在漫长的三方战争之后，被虫群占领家园的星灵们准备夺回属于自己的家园</font>——艾尔。</span><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="MARGIN: 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="宋体">牺牲</font>……和解……征战……归乡……</span><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="MARGIN: 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><font face="宋体">最终，以黑暗之神的陨落为结局，达拉姆的荣光将散播至星区的每个角落。</font></span><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="MARGIN: 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'; mso-font-kerning: 1.0000pt"><o:p> </o:p></span></p><!--EndFragment--></body>
